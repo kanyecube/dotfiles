@@ -1,0 +1,16 @@
+# set wall
+# CHANGE THIS PATH
+feh --bg-fill /path/to/wall.jpeg &
+
+# polybar
+polybar mybar --config=~/.config/polybar/config.ini &
+
+# low battery notifications
+# CHANGE THIS PATH
+/path/to/battery.sh &
+
+# allow screen locking
+xss-lock slock &
+
+# picom
+picom -cb
