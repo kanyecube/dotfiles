@@ -2,6 +2,8 @@
 
 My personal dotfiles that I use daily. 
 
+![screenshot](/media/screenshot.png)
+
 ## details
 
 - **os:** manjaro linux
