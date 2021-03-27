@@ -15,3 +15,6 @@ My personal dotfiles that I use daily.
 - **browser:** firefox
 - **file manager:** nautilus
 - **notifications:** dunst
+- **compositor:** picom
+
+For GTK, I use the WhiteSur-light theme with Big Sur icons. You can find them elsewhere(i can't be bothered to put links here tbh).
