@@ -24,4 +24,6 @@ For GTK, I use the WhiteSur-light theme with Big Sur icons. You can find them el
 
 Make sure you have the proper fonts, icons, apps, and themes installed before copying my dotfiles. The fonts I use are SF Pro Display and JetBrains Mono.
 
-The autostart file in .config/openbox points to multiple locations on the disk. You'll want to change the paths to wherever you have those files.
+Config files sometimes point to locations on disk. Make sure you correct the paths before using these dotfiles, otherwise they may not work.
+
+Also make sure you install the scripts.

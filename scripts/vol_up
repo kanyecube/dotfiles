@@ -1,0 +1,4 @@
+#!/bin/sh
+
+amixer set Master 5%+
+notify-send "Volume is now $(amixer | grep '%' | head -n 1 | awk '{ print $5 }' | sed 's/^.//;s/.$//')"
